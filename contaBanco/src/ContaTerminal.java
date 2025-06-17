@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args) {
-        var scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         System.out.println("Bem-vindo ao Banco Java!");
         System.out.println("Por favor, preencha os dados a seguir para criar sua conta >>>>>>>>>");
